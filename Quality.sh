@@ -1,2 +1,2 @@
-echo 'Quality of the project'
+echo Quality of the project
 
