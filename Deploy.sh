@@ -1,2 +1,2 @@
-echo 'Deploy the project'
+echo Deploy the project
 
