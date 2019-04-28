@@ -1,1 +1,1 @@
-echo 'mohan' %date%
+echo 'echo Build the Project' %date% %time%
