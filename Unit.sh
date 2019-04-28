@@ -1,1 +1,1 @@
-echo 'Unit of the project'
+echo Unit of the project
