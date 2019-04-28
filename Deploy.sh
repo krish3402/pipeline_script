@@ -1,2 +1,0 @@
-echo Deploy the project
-
