@@ -1,2 +1,2 @@
-echo 'Build the Project'
+echo Build the Project
 
